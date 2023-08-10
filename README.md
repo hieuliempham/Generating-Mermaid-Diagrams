@@ -126,9 +126,13 @@ To participate in the contest, follow these steps:
 
 ## ❓ Questions and Support
 
+<<<<<<< HEAD
 Join Zalo Group: https://zalo.me/g/dyqsii775
 
 For any questions or any support, please contact me via: hieuliem201@hutech.edu.vn or visit https://www.facebook.com/hieuliempham.
 
+=======
+For any questions or any support, please contact me via: hieuliem201@hutech.edu.vn or visit https://www.facebook.com/hieuliempham.
+>>>>>>> c2e09b3c8ca083a6e6ee387c6005cd2da7cdee13
 
 ![Contest Logo](contest_logo.jpg)
